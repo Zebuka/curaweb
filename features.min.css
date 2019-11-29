@@ -1,0 +1,60 @@
+.item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding-bottom:6rem}.item .img{padding-right:3rem}.content p:last-child{margin:0}.sr-offer-two-col-01 li.spacer{margin:0 1rem}.sr-offer-two-col-01 ul.left-text{list-style:none;padding:0;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);position:absolute;left:2rem;top:75%;color:#8f8f8f;margin:0;-webkit-transform-origin:left top;-ms-transform-origin:left top;transform-origin:left top}@media(max-width:768px){.sr-offer-two-col-01 ul.left-text{position:relative;transform:none;top:0;left:0;padding:3rem}}.features{padding:2rem 3.5rem;border-radius:4px}.row.feature{-ms-flex-wrap:nowrap;flex-wrap:nowrap;margin:0}.row.feature>div{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.row.feature>div:last-child{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0}.feat-icon img{margin-right:1.5rem}.feat{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.widget_1566229133267 .bg {
+    background: -webkit-gradient(linear, right top, left top, color-stop(55%, #ffffff), color-stop(45%, #F9FAFC));
+    background: -o-linear-gradient(right, #ffffff 55%, #F9FAFC 45%);
+    background: linear-gradient(to left, #ffffff 55%, #F9FAFC 45%);
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.widget_1566229133267 {
+    position: relative;
+}
+
+@media screen and (min-width: 768px) {
+    .sr-offer-two-col-01 .sr-offer-two-col-01-content {
+        padding-left: 5.625rem;
+        padding-right: 5.625rem;
+    }
+
+    .sr-offer-two-col-01 .sr-offer-two-col-01-content .column-form {
+        max-width: 33.7rem;
+        margin: 0 auto;
+    }
+}
+
+.sr-offer-two-col-01 .hs-form fieldset {
+    padding: 0;
+}
+
+.sr-offer-two-col-01 .sr-offer-two-col-01-content .lead {
+    margin-bottom: 0;
+}
+
+
+
+.widget_1566229133267 .container {
+    padding: 9rem 15px 18rem 15px;
+}
+
+
+.bg,
+.sr-offer-two-col-01-left,
+.item {
+    opacity: 0;
+}
+
+.features {
+    max-width: 80%;
+    opacity: 0;
+    margin: 0 auto
+}
+
+.feat {
+    opacity: 0;
+}
